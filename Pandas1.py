@@ -1,7 +1,7 @@
 # Autor: GSRS
 
 import pandas as pd
-Combus = pd.read_excel("C:\\Users\\Guilherme Souza\\Desktop\\Pandas_Una\\ca-2021-02.xlsx")
+Combus = pd.read_excel("ca-2021-02.xlsx")
 #Pega n linhas
 #print(Combus.head(5))
 #Faz uma análise
