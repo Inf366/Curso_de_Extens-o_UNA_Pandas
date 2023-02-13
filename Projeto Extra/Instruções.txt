@@ -1,4 +1,4 @@
-Criador G.S.R.S
+Desenvolvedor G.S.R.S
 
 Neste exemplo, a "Tabela Base" será o arquivo: DataBase.xlsx
 Excel deverá reconhecer '.' como ponto decimal.
