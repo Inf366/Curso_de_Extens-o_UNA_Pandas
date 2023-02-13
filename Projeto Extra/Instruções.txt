@@ -1,7 +1,7 @@
 Criador G.S.R.S
 
 Neste exemplo, a "Tabela Base" será o arquivo: DataBase.xlsx
-Excel deverá reconhecer '.' como ponto decimal
+Excel deverá reconhecer '.' como ponto decimal.
 
 1) O programa irá realizar uma análise química em valores recebidos de um 
 dado "Soluto A".
@@ -20,7 +20,7 @@ o local da tabela base. Nesta versão o arquivo excel já está indexado para a 
 
 6)No mesmo diretório do script, 3 gráficos serão criados, sendo eles:
 *Variação das Aferições de Massas.
-*Velocidade_vs_Xa
-*Velocidade g/(ml*min); Concentração g/ml
+*Velocidade_vs_Xa,
+*Velocidade g/(ml*min); Concentração g/ml.
 
 
