@@ -1,6 +1,7 @@
 Criador G.S.R.S
 
 Neste exemplo, a "Tabela Base" será o arquivo: DataBase.xlsx
+excel reconhecerá '.' como ponto decimal
 
 1) O programa irá realizar uma análise química em valores recebidos de um 
 dado "Soluto A".
